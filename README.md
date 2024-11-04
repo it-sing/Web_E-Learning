@@ -1,0 +1,2 @@
+# E-Learning Platform
+This project is a static website built as part of a homework assignment, showcasing an e-learning platform layout. It is a simple and responsive design created using HTML, CSS, and JavaScript to demonstrate front-end development skills.
